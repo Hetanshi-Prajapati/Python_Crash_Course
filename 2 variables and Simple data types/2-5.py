@@ -1,0 +1,1 @@
+print('My Father said,"Learn everything but do only that you want to do"')
